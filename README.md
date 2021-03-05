@@ -1,4 +1,3 @@
 Hola
 Este texto 
-es para modificar
-el contenido del archivo
+identica el nuevo contenido
